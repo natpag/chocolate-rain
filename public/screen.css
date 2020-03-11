@@ -110,3 +110,28 @@ ul.types {
   color: rgb(102, 26, 49);
   text-decoration: underline;
 }
+
+section.turtles {
+  display: flex;
+  justify-content: space-between;
+}
+
+p.turtle {
+  padding: 1rem;
+  color: rgb(102, 26, 49);
+  text-align: left;
+  font-size: 20px;
+}
+
+img.class {
+  padding: 1rem;
+  height: auto;
+  width: 20%;
+}
+
+h1.events {
+  color: white;
+  padding: 1rem;
+  border-style: double;
+  text-align: center;
+}
