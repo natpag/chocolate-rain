@@ -135,3 +135,20 @@ h1.events {
   border-style: double;
   text-align: center;
 }
+
+section.shop {
+  padding: 1rem;
+  width: 40% display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+img.loco {
+  width: 65%;
+  height: auto;
+}
+
+section.loco {
+  display: flex;
+  justify-content: space-between;
+}
