@@ -82,3 +82,31 @@ p.c {
   color: white;
   margin-bottom: 1rem;
 }
+
+.abouthead {
+  color: white;
+  text-align: center;
+}
+
+.info {
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+img.chef {
+  padding: 1rem;
+  width: 20%;
+  height: auto;
+}
+
+p.aboutp {
+  color: white;
+}
+
+ul.types {
+  display: flex;
+  justify-content: space-evenly;
+  color: rgb(102, 26, 49);
+  text-decoration: underline;
+}
